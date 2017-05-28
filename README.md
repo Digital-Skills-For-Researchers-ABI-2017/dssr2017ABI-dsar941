@@ -1,12 +1,17 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+In this project we have developed a web-based epithelial transport discovery, exploration and assembly tool. Using this tool, users would be able to discover computational physiology models in order to create an epithelial model. 
 
 ## Code Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Motivation
+
+This project would be useful for novice modellers to make epithelial models. We have developed the following features:
+* Model discovery - users will search models of interest and it will show species, gene, protein, etc in addition to the cellml model name.
+* Load models - list of selected models. This also has the visualization feature for comparison between cellml models. Also, users would be able to view annotated content from cellml such as abstract of the paper, author names, etc.
+* Epithelial Platform - interactive epithelial platform where users can drag and drop transporters, channels and plat them in different membranes......
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
@@ -24,8 +29,10 @@ Describe and show how to run the tests with code examples.
 
 ## Contributors
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+- Dewan Sarwar
+- David Nickerson
+- Tommy Yu
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+MIT license ... probably in future.

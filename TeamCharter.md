@@ -17,4 +17,3 @@
 - Dewan Sarwar
 - David Nickerson
 - Tommy Yu
-- etc

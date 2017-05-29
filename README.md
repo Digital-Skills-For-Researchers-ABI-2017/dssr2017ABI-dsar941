@@ -17,7 +17,7 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
-Fork and clone the project. Open the index.html into your browser. A web uri will be announced later.
+Clone the project and open the index.html into your browser. Or you could copy and paste the index.html page URI into rawgit.com, which will provide you a web URI.
 
 ## API Reference
 

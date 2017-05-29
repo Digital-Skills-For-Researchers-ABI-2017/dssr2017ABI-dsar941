@@ -15,5 +15,5 @@
 
 ## Project Team
 - Dewan Sarwar
-- David Nickerson
-- Tommy Yu
+- David Nickerson (Advisor)
+- Tommy Yu (Advisor)

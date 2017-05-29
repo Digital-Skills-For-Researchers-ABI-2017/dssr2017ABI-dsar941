@@ -14,5 +14,7 @@
 - Communication
 
 ## Project Team
-- Dewan Sarwar is the main developer of this tool
-- David Nickerson and Tommy Yu are coordinator and advisor.
+- Dewan Sarwar
+- David Nickerson
+- Tommy Yu
+- etc

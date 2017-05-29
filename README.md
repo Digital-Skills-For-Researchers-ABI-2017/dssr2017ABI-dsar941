@@ -1,6 +1,6 @@
 ## Synopsis
 
-In this project we have developed a web-based epithelial transport discovery, exploration and assembly tool. Using this tool, users would be able to discover computational physiology models in order to create an epithelial model. 
+In this project we will develop a web-based epithelial transport discovery, exploration and assembly tool. Using this tool, users would be able to discover computational physiology models in order to assemble and create an epithelial model.
 
 ## Code Example
 
@@ -8,16 +8,16 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-This project would be useful for novice modellers to make epithelial models. We have developed the following features:
-* Model discovery - users will search models of interest and it will show species, gene, protein, etc in addition to the cellml model name.
-* Load models - list of selected models. This also has the visualization feature for comparison between cellml models. Also, users would be able to view annotated content from cellml such as abstract of the paper, author names, etc.
-* Epithelial Platform - interactive epithelial platform where users can drag and drop transporters, channels and plat them in different membranes......
+This project would be useful for novice modellers to make epithelial models. We will develop the following features:
+* Model discovery - users will search models of interest and the tool will render some useful information of the models from the Physiome Model Repository such as species, gene, protein.
+* Load models - list of selected models. This also has visualization feature to compare between cellml models. Also, users would be able to view annotated content from cellml such as abstract of the paper, author names.
+* Epithelial Platform - interactive epithelial platform where users would be able to drag and drop transporters, channels across different membranes.
 
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+Fork and clone the project. Open the index.html into your browser. A web uri will be announced later.
 
 ## API Reference
 
@@ -35,4 +35,4 @@ Describe and show how to run the tests with code examples.
 
 ## License
 
-MIT license ... probably in future.
+MIT license!

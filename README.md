@@ -1,4 +1,4 @@
-## Synopsis
+## Semantic Annotation and Discovery with CellML and PMR
 
 In this project we will develop a web-based epithelial transport discovery, exploration and assembly tool. By using this tool, users would be able to discover computational physiology models in order to assemble and create an epithelial model.
 

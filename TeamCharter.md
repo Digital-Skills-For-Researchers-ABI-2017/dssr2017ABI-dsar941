@@ -21,18 +21,20 @@ Long term goal of this project is to find diseases from the discovered models by
 
 # Team Agreement
 ## Behavioural Agreement
-* Encourage collaboration and sharting
+* Encourage collaboration and sharing
 * Resolve conflict peacefully
 * Communicate openly
 * Be honest about the difficulties we are facing
 * Not discriminate
-* Encourage up and coming researchers
+* Encourage up and coming researchers, mid and late career as well
 * Maintain an egoless environment
 * No knowledge intimindation/shaming
 * Have upfront expectations
 * Everyone has a voice
 * Commit to learnining
 ## Communication Agreement
+* Regular update
+* Group discussions
 
 ## Project Team
 * Dewan Sarwar
